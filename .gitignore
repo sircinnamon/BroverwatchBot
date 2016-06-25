@@ -1,1 +1,5 @@
 *.swp
+data/*
+!data/*.txt
+build/
+__pycache__/
